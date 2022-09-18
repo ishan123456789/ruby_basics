@@ -16,3 +16,14 @@ puts test_var.strip()
 puts test_var.include? "Hello"
 puts test_var[2]
 puts test_var.index('l')
+
+
+puts "NUmbers"
+puts test_num.abs()
+test_num = 22.1
+puts test_num.ceil()
+puts Math.sqrt(4)
+puts Math.log(4)
+
+puts 1 + 1.32
+puts 7 / 2 # using int so return is int
