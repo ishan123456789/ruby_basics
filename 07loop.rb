@@ -36,8 +36,8 @@ end
 
 num = 7
 6.times do |index|
-  puts "fds"+index.to_s
+  puts "times"+index.to_s
 end
 num.times do |index|
-  puts "fds"+index.to_s
+  puts "again times"+index.to_s
 end
